@@ -1,0 +1,6 @@
+class noufel {
+
+              public static void main(String[] args){
+              System.out.println("He is wada rangbaaz");
+}
+}
